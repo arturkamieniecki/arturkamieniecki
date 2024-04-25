@@ -13,13 +13,13 @@ I'm also a junior C++ developer.
 ## 🐾 Meet My Dogs
 I love spending time with my pet friends. Here are my three dogs:
 
-![Dog1](./dogs/bela.png)  
+![Dog1](./dogs/bela.jpeg)  
 [Bela] loves sleeping and food.
 
-![Dog2](./dogs/libert.png)  
+![Dog2](./dogs/libert.jpeg)  
 [Libert] very energetic, loves to push everyone of the couch.
 
-![Dog3](./dogs/toro.png)  
+![Dog3](./dogs/toro.jpeg)  
 [Toro] a senior who loves napping and greeting everyone who he sees.
 
 ## Connect with me 🌎
