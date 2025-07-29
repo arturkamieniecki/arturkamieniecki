@@ -1,7 +1,7 @@
 # Hello, I'm Artur 👋
 
 I'm a student at University of Warsaw studying Computer Science.  
-I'm also a junior C++ developer.  
+I'm also a mid C++ developer.  
 
 ## 🛠 Technologies and Tools I use:
 
